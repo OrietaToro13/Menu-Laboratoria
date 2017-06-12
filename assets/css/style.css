@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	font-family: 'Open Sans', sans-bold;
+}
+.menu{
+	background-color: #FF69B4;	
+	font-size: 20px;
+	display: flex;	
+}
+.menu li{
+	border-right: 1px solid black;
+	list-style: none;
+	width: 100vw;
+	height: 50px;
+	text-align:center;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.menu li:hover{
+	background-color: #87CEFA;
+}
+
+
+
